@@ -43,7 +43,7 @@ This game was developed for the "Localized AI Development and Deployment" sectio
 
 Watch this video to see game in action:
 
-[![DoorGo Educational Game Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![DoorGo Educational Game Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=30tXG5Sou2U)
 
 
 ## Implementation Details
