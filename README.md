@@ -1,6 +1,6 @@
 # Educational Game for Localized AI
 
-![Game Banner](./IMG/GameBanner.jpg)
+![Game Banner](IMG/GameBanner.jpeg)
 
 ## Table of Contents
 - [Overview](#overview)
