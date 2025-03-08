@@ -117,25 +117,34 @@ Each room contains:
 ## Gameplay Screenshots
 
 ![Gameplay Screenshot 1](IMG/G0.png)
-*Starting area of the game*
+*Game Banner in Roblox Player*
 
 ![Gameplay Screenshot 2](IMG/G1.png)
-*Approaching a question station*
+*Starting area of the game*
 
-![Gameplay Screenshot 3](IMG/G2.png)
+![Gameplay Screenshot 2](IMG/G6.png)
+*Game screenshot*
+
+![Gameplay Screenshot 3](IMG/G33.png)
 *Answering a question about Localized AI*
 
 ![Gameplay Screenshot 4](IMG/G3.png)
 *Transitioning between rooms*
 
-![Gameplay Screenshot 5](IMG/G4.png)
+![Gameplay Screenshot 5](IMG/G34.png)
 *The timer counting down*
 
-![Gameplay Screenshot 6](IMG/G5.png)
-*Game over screen after an incorrect answer*
+![Gameplay Screenshot 6](IMG/G2.png)
+*Ste Two*
 
-![Gameplay Screenshot 7](IMG/G6.png)
+![Gameplay Screenshot 7](IMG/G4.png)
 *Final victory celebration*
+
+![Gameplay Screenshot 7](IMG/G5.png)
+*Final victory celebration - With Creator*
+
+![Gameplay Screenshot 7](IMG/G8.png)
+*Final Scene*
 
 ## Development Process
 
